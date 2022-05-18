@@ -1,0 +1,4 @@
+GraphQL was developed to cope with the need for more flexibility and efficiency! It solves many of the shortcomings and inefficiencies that developers experience when interacting with REST APIs.
+It Prevents over fetching and under fetching.
+One of the most common limitations of REST out-of-the-box is that of overfetching and underfetching. This happens because the only way for a client to download data is by hitting endpoints that return fixed data sets. It’s very difficult to design the API in a way that it’s able to provide clients with their exact data needs.
+ GraphQL can combine multiple schemas into a single schema to make it accessible to the client
